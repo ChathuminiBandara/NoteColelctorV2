@@ -1,0 +1,5 @@
+#spring:
+#  application:
+#    name: NoteColelctorV2  # Indentation signifies hierarchy under "spring"
+#server:
+#  port: 5050              # Indentation signifies hierarchy under "server"
