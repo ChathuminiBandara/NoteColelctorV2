@@ -1,4 +1,4 @@
-package lk.ijse.NoteColelctorV2;
+package lk.ijse;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
